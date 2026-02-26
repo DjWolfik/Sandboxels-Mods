@@ -5,10 +5,11 @@ elements.pressurized_water = {
     state: "liquid",
     density: 1050,
     viscosity: 1000,
-    stateHigh: 500,
-    stateHighEl: "steam",
-    stateLow: 0,
-    stateLowEl: "ice",
+    tempHigh: 500,
+    stateHigh: "steam",
+    tempLow: 0,
+    stateLow: "ice",
 }
+
 
 
